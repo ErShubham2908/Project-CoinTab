@@ -17,6 +17,4 @@ You may also see any lint errors in the console.
 
 ### Repo URL:
 
-The Backend Repo URL: https://github.com/akarsh-gupta007/CoinTab_Backend
 
-The Frontend Repo URL: https://github.com/akarsh-gupta007/CoinTab_frontend
